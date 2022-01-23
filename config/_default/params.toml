@@ -1,0 +1,94 @@
+#################### default parameters ################################
+# favicon
+favicon = "images/favicon.png"
+# logo
+logo = "images/logo.svg"
+# use `x` with logo_width, example: "100x"
+logo_width = "240x"
+# logo text will only show when logo is missing.
+logo_text = "Matha Speciality Dental Clinic"
+# OpenGraph / Twitter Card metadata
+description = "This is meta description"
+author = "Themefisher"
+image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+
+# footer information
+footer_info = " "
+
+# contact form action
+contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
+
+# copyright
+copyright = "Designed By [Fostery](https://linktr.ee/fostery)"
+
+# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
+custom_script= "" 
+
+# buy premium popup
+buy_premium_popup = false
+
+# Main Sections
+mainSections= ["blog"]
+
+# reading time for blog posts
+reading_time = true
+
+# contact information
+[contact_info]
+address = "St. Peter's Shopping Complex, St. Peter's Junction Pathanamthitta."
+phone = ["0468 2270 273","944 774 2305"]
+email = ["dr.marykurian@gmail.com"]
+
+# imaging processing
+[imaging]
+# Default JPEG or WebP quality setting. Default is 100.
+quality = 100
+
+# Preloader
+[preloader]
+enable = true
+preloader = "images/favicon.png" # use jpg, png, svg or gif format.
+
+# Navigation button
+[navigation_button]
+enable = true
+label = "Find Us On Google"
+link = "https://goo.gl/maps/McwKvxMMGQFFjnpz9"
+
+# cookies
+[cookies]
+enable = false
+expire_days = 2
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
+
+# call-to-action
+[cta]
+enable = false
+title = "Get Andromeda-Premium Now"
+content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+button = "Download The Theme"
+button_link = "https://gethugothemes.com/products/andromeda/"
+
+############################# social site ########################
+[[social]]
+title = "Facebook"
+icon = "lab la-facebook-f" # https://icons8.com/line-awesome
+link = "#!"
+
+[[social]]
+title = "WhatApp"
+icon = "lab la-whatsapp" # https://icons8.com/line-awesome
+link = "https://wa.me/message/RNYJS4VNSD4JI1"
+
+[[social]]
+title = "Telegram"
+icon = "lab la-telegram" # https://icons8.com/line-awesome
+link = "https://t.me/mathadentalclinic"
+
+[[social]]
+title = "Instagram"
+icon = "lab la-instagram" # https://icons8.com/line-awesome
+link = "#!"
+
+

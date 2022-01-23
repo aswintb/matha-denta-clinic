@@ -1,0 +1,50 @@
+# main menu
+[[main]]
+name = "Home"
+url = ""
+weight = 1
+
+[[main]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "FAQ"
+url = "faq/"
+weight = 3
+
+
+  
+[[main]]
+name = "Contact Us"
+url = "contact/"
+weight = 4
+
+
+#[[main]]
+#name = "Blogs"
+#url = "blog/"
+#weight = 5
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Facilities"
+url = "facilities/"
+weight = 2
+
+[[footer]]
+name = "Blog Details"
+url = "blog/post-1/"
+weight = 3
+
+[[footer]]
+name = "Terms & Conditions"
+url = "terms-and-conditions/"
+weight = 4
