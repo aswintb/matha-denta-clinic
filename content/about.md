@@ -6,29 +6,35 @@ draft: false
 # who_we_are
 who_we_are:
   enable: true
-  subtitle: "Who We Are"
-  title: "Hello, We're Andromeda Here for your Help"
-  description: "Your online Health & Fitness companion that offers free assistance on its Facebook Group and provides quality paid guided personal training packages by and through website. We are the first ever, online manifesto in Bangladesh to make place you will select when you think of getting fit"
+  #subtitle: "Who We Are"
+  title: "We Help You Smile More! For Longer..."
+  description: "We at Matha Dental clinic are a bunch of experienced dentists providing you the best dental care experience on a very reasonable budget."
 
-  image: "images/about/01.jpg"
+  image: "images/about/pexels-yogendra-singh-7485047.jpg"
 
 # what_we_do
 what_we_do:
   enable: true
-  subtitle: "Our Works"
-  title: "What We Do"
+  subtitle: ""
+  title: "Our Services"
   block:
-  - title: "Building a new class"
-    content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
+  - title: "Endodontics (Root Canal)"
+    #content: "To save your teeth by treating the soft pulp tissue inside your teeth by root canal and several other endontic treatments"
 
-  - title: "Design for anyone"
-    content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
+  - title: "Maxillofacial Surgery"
+    #content: "Suffering from misaligned jaws, Impacted wisdom teeth or tooth loss? We have You Covered. "
     
-  - title: "Creative flair design"
-    content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
+  - title: "Periodontics"
+    #content: "Good oral health depends on the helth of your gums"
     
-  - title: "Building products"
-    content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
+  - title: "Pediatric Dentistry"
+    #content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
+    
+  - title: "Prosthodontics"
+    #content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
+  
+  - title: "Dental Implants"
+    #content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"  
 
 # our_mission
 our_mission:
@@ -52,9 +58,9 @@ brands_carousel:
 # our team
 our_team:
   enable: true
-  subtitle: "Our members"
+  subtitle: "<br><br><br>"
   title: "The People Behind"
-  description: "We were freelance designers and developers, constantly finding <br> ourselves deep in vague feedback. This made every client and team"
+  #description: "We were freelance designers and developers, constantly finding <br> ourselves deep in vague feedback. This made every client and team"
   team:
   - name: "Valentin Staykov"
     image: "images/about/team/01.jpg"

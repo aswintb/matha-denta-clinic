@@ -7,51 +7,61 @@ banner:
   image: "images/banner-app.png"
 
 
-# brands
-brands_carousel:
-  enable: false
-  brand_images:
-  - "images/brands/01-colored.png"
-  - "images/brands/02-colored.png"
-  - "images/brands/04-colored.png"
-  - "images/brands/03-colored.png"
-  - "images/brands/05-colored.png"
-  - "images/brands/06-colored.png"
-  - "images/brands/04-colored.png"
-  - "images/brands/02-colored.png"
-  - "images/brands/01-colored.png"
-  - "images/brands/06-colored.png"
-  - "images/brands/05-colored.png"
 
-
-
-
+brand_images:
+enable: false
+  - images/brands/01-colored.png
+  - images/brands/02-colored.png
+  - images/brands/04-colored.png
+  - images/brands/03-colored.png
+  - images/brands/05-colored.png
+  - images/brands/06-colored.png
+  - images/brands/04-colored.png
+  - images/brands/02-colored.png
+  - images/brands/01-colored.png
+  - images/brands/06-colored.png
+  - images/brands/05-colored.png
+  
+  
 # features
 features:
-  enable: false
+  enable: true
   subtitle: ""
-  title: "Why Choose Us"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  title: "Why Choose Us?"
+  description: "Our aim is to provide the best dental care facilities  <br> to our customers at the most affordable rate."
   features_blocks:
-  - icon: "las la-lock"
+  - icon: "las la-user-nurse"
     title: "Service Of Specialist Doctors"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    #content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-magnet"
     title: "Most Modern Facilities"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-tachometer-alt"
-    title: "Secured &amp; up-to-date"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-link"
-    title: "Instant Link Sharing"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-lock"
-    title: "Updated Security"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-magnet"
-    title: "Magnetic Turning"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    #content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+  - icon: "las la-tooth"
+    title: "Digital Apex Locator"
+    #content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+  - icon: "las la-x-ray"
+    title: "Digital X-Ray Imaging"
+    #content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+  - icon: "las la-notes-medical"
+    title: "Digital Records Management"
+    #content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+  - icon: "las la-leaf"
+    title: "Eco Friendly"
+    #content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
 
+# how_it_works
+how_it_works:   
+  enable: true
+  block:
+  - subtitle: ""
+    title: "15 Years Of Trust"
+    description: "Located in the heart of Pathanamthitta, Matha Speciality Dental Clinic has been providing an invaluble service to it's customers for the past 15 years."
+    image: "images/features-01.png"
+
+  - subtitle: ""
+    title: "A Destination To All Of Your Dental Problems"
+    description: "From your periodic oral checkup to oral sugery, Our experienced doctors will take care of all your dental needs."
+    image: "images/features-02.png"
 
 # intro_video
 intro_video:   
@@ -63,25 +73,12 @@ intro_video:
   video_thumbnail: "images/video-popup.jpg"
 
 
-# how_it_works
-how_it_works:   
-  enable: true
-  block:
-  - subtitle: "Primary Speciality"
-    title: "You Will Not miss Your All misunderstandings"
-    description: "Located in the heart of pathanamthitta, Matha Speciality Dental Clinic has been providing an invaluble service to it's customers for the past 15 years."
-    image: "images/features-01.png"
-
-  - subtitle: "Secondary Speciality"
-    title: "Say hello to no-code The Advance Creation"
-    description: "From a simple **** to **** Our experienced doctors will take care of all your dental needs"
-    image: "images/features-02.png"
 
 
 # testimonials
 testimonials:   
-  enable: true
-  subtitle: "Our Testimonials"
+  enable: false
+  subtitle: "<br><br><br>"
   title: "Don't take our word for it"
   description: "Here's what our customers have to tell about us."
   image_left: "images/testimonials-01.png"

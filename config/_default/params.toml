@@ -16,7 +16,7 @@ image = "images/logo.png" # this image will be used as fallback if a page has no
 footer_info = " "
 
 # contact form action
-contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
+contact_form_action = "" # contact form works with https://formspree.io
 
 # copyright
 copyright = "Designed By [Fostery](https://linktr.ee/fostery)"
