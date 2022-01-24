@@ -33,7 +33,7 @@ features:
   - icon: "las la-user-nurse"
     title: "Service Of Specialist Doctors"
     #content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-magnet"
+  - icon: "las la-robot"
     title: "Most Modern Facilities"
     #content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-tooth"
