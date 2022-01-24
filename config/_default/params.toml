@@ -8,7 +8,7 @@ logo_width = "240x"
 # logo text will only show when logo is missing.
 logo_text = "Matha Speciality Dental Clinic"
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
+description = "Matha Speciality Dental Clinic Provides you excellent dental care facilities on a budget"
 author = "Themefisher"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 
