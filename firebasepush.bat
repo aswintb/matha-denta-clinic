@@ -1,0 +1,2 @@
+hugo -D & firebase deploy
+

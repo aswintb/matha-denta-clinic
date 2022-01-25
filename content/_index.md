@@ -85,10 +85,10 @@ testimonials:
   image_right: "images/testimonials-02.png"
   
   testimonials_quotes:
-  - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs dolor faucibus"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
-    image: "images/user-img/05-i.jpg"
+  - quote: "Dr. Mary Kurian is so efficient. Treatment is done with great care and hygiene and was completed within short span of time without causing too much lag and continuous visits."
+    name: "Romy Sunny"
+    designation: ""
+    image: "images/user-img/review01.jpg"
 
   - quote: "Conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus"
     name: "David Cameron"

@@ -59,18 +59,18 @@ brands_carousel:
 our_team:
   enable: true
   subtitle: "<br><br><br>"
-  title: "The People Behind"
+  title: "Our Doctors"
   #description: "We were freelance designers and developers, constantly finding <br> ourselves deep in vague feedback. This made every client and team"
   team:
-  - name: "Valentin Staykov"
-    image: "images/about/team/01.jpg"
-    designation: "Operations"
-  - name: "Bukiakta Bansalo"
-    image: "images/about/team/02.jpg"
-    designation: "Product"
-  - name: "Ortrin Okaster"
-    image: "images/about/team/03.jpg"
-    designation: "Engineering"
+  - name: "Dr.Mary Kurian"
+    image: "images/about/team/01"
+    designation: "Endodontist"
+  - name: "Dr.Muralikrishnan"
+    image: "images/about/team/02"
+    designation: "Maxillo Facial Surgeon"
+  - name: "Reji Abraham"
+    image: "images/about/team/03"
+    designation: "Orthodontist"
 
 
 # our office
