@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ipsum on Matha Speciality Dental Clinic</title>
-    <link>https://website-e9d7b.web.app/tags/ipsum/</link>
+    <link>https://mathaspecialitydentalclinic.com/tags/ipsum/</link>
     <description>Recent content in ipsum on Matha Speciality Dental Clinic</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://website-e9d7b.web.app/tags/ipsum/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://mathaspecialitydentalclinic.com/tags/ipsum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Migrate from Jekyll</title>
-      <link>https://website-e9d7b.web.app/blog/migrate-from-jekyll/</link>
+      <link>https://mathaspecialitydentalclinic.com/blog/migrate-from-jekyll/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://website-e9d7b.web.app/blog/migrate-from-jekyll/</guid>
+      <guid>https://mathaspecialitydentalclinic.com/blog/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output.</description>
     </item>
     

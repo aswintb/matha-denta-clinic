@@ -2,8 +2,8 @@
 # banner
 banner:
   title: "Let Your Smile Shine"
-  button: "Book An Appointment"
-  button_link: "https://c.tenor.com/dt1etVruHGAAAAAi/rylsee-tooshytorap.gif"
+  button: "Schedule An Appointment"
+  button_link: "/contact/"
   image: "images/banner-app.png"
 
 

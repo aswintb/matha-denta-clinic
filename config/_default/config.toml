@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://website-e9d7b.web.app"
+baseURL = "https://mathaspecialitydentalclinic.com/"
 title = "Matha Speciality Dental Clinic"
 theme = "andromeda-light"
 # post pagination
@@ -7,7 +7,7 @@ paginate = "6"
 # post excerpt
 summaryLength = "10"
 # google analytics
-googleAnalytics = "G-02K7MKDXPT" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
+googleAnalytics = "G-C1W0V8GB9R" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 # disqus short name
 disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
 

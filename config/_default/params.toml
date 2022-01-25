@@ -19,7 +19,7 @@ footer_info = " "
 contact_form_action = "" # contact form works with https://formspree.io
 
 # copyright
-copyright = "Designed By [Fostery](https://linktr.ee/fostery)"
+copyright = "Loved this website? [Click Here](https://linktr.ee/fostery) to create one for yourselves :-D"
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= "" 
@@ -74,7 +74,7 @@ button_link = "https://gethugothemes.com/products/andromeda/"
 [[social]]
 title = "Facebook"
 icon = "lab la-facebook-f" # https://icons8.com/line-awesome
-link = "#!"
+link = "https://www.facebook.com/mathadental/"
 
 [[social]]
 title = "WhatApp"
